@@ -21,5 +21,7 @@ User experience
 ## Algorithm
 
 ## Result
+<img width="1104" height="772" alt="image" src="https://github.com/user-attachments/assets/7a47bace-d284-4e5a-b382-ff848bd1d869" />
+
 
 
